@@ -1,0 +1,19 @@
+bubble sort :
+    비교 연산자 Best case : n(n-1) / 2
+    비교 연산자 Worst case : n(n-1) / 2
+
+imporved bubble sort algorithm sort :
+    비교 연산자 Best case : n - 1
+    비교 연산자 Worst case : n(n-1) / 2
+    
+selection sort :
+    비교 연산자 실행 횟수 Best case : n(n-1) / 2
+    비교 연산자 실행 횟수 Worst case : n(n-1) / 2
+
+insertion sort :
+    비교 연산자 실행 횟수 Best case : n-1
+    비교 연산자 실행 횟수 Worst case : n(n-1) / 2
+
+Shell sort :
+    비교 연산자 실행 횟수 : 
+    비교 연산자 실행 횟수 :
